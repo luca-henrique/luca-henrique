@@ -19,11 +19,6 @@
 
 <br />
 
-## ✩ Estatísticas
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luca-henrique)](https://github.com/luca-henrique/github-readme-stats)
-
-<br />
 
 ---
 
