@@ -18,6 +18,11 @@
 <img align="left" alt="styled-components" width="26px" src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" />
 
 <br />
+
+## ✩ Estatísticas
+
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=luca-henrique&locale=pt-br&theme=synthwave&custom_title=➥+Tempo+de+Desenvolvimento&hide_title=false&show_icons=true&hide=ini,git+config,bash,groovy,gitignore+file,xml,other,git,auto_detected,idea_module,yaml,markdown,properties)
+
 <br />
 
 ---
