@@ -21,7 +21,7 @@
 
 ## ✩ Estatísticas
 
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=luca-henrique&locale=pt-br&theme=synthwave&custom_title=➥+Tempo+de+Desenvolvimento&hide_title=false&show_icons=true&hide=ini,git+config,bash,groovy,gitignore+file,xml,other,git,auto_detected,idea_module,yaml,markdown,properties)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=luca-henrique)](https://github.com/luca-henrique/github-readme-stats)
 
 <br />
 
