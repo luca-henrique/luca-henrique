@@ -1,13 +1,8 @@
 ### Hi there, I'm Lucas Henrique
 
-## I'm a JS developer, focus on frontend and mobile.
-
-- I’m currently learning functinal programming
-
 ### Connect with me:
 
 [<img align="left" alt="luca-henrique | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="luca-henrique | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -38,5 +33,4 @@
 
 <img align="left" alt="luca-henrique's Github Stats" src="https://github-readme-stats.vercel.app/api?username=luca-henrique&show_icons=true&hide_border=true" />
 
-[instagram]: https://www.instagram.com/luca.henrique/
 [linkedin]: https://www.linkedin.com/in/lucas-henrique-paes-a5951815a/
