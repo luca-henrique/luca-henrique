@@ -1,4 +1,12 @@
+
+
 <p align="left">Olá, sou Lucas Paes, desenvolvedor.</p>
+
+Sobre mim:
+
+❤ JavaScript (NodeJS, React, React Netive, Express, Mongoose, AdonisJs).
+💾 DataBase Skills (UML)
+📫 Email: lucaspaes.dev@gmail.com
 
 ###
 
