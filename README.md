@@ -4,9 +4,16 @@
 
 Sobre mim:
 
-❤ JavaScript (NodeJS, React, React Netive, Express, Mongoose, AdonisJs).
-💾 DataBase Skills (UML)
-📫 Email: lucaspaes.dev@gmail.com
+<div>
+  <ul>
+    <li>❤ JavaScript (NodeJS, React, React Netive, Express, Mongoose, AdonisJs).</li>
+    <li>💾 DataBase  (Postgresql, Mysql, sqlite)</li>
+    <li>📫 Email: lucaspaes.dev@gmail.com</li>
+  </ul>
+</div>
+
+
+
 
 ###
 
